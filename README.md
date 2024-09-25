@@ -5,4 +5,4 @@
 
 ## 参考资料
 
-[](https://blog.csdn.net/xianrenzhou/article/details/137369119)
+[使用GitHub搭建个人图床](https://blog.csdn.net/xianrenzhou/article/details/137369119)
